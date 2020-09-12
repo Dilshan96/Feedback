@@ -1,0 +1,7 @@
+ {
+    "jwtPrivateKey": "jwtPrivateKey",
+    "database" : {
+        "password" : "db_password",
+        "db_url": "db_url"
+    }
+}

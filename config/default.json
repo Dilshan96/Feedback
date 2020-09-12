@@ -1,0 +1,13 @@
+{
+  "name": "Coffee Shop",
+  "jwtPrivateKey": "testkey",
+  "database": {
+    "name": "coffeeshop",
+    "host": "127.0.0.1",
+    "port": 27017,
+    "db_url": "mongodb://localhost:27017/labayi"
+  },
+  "system": {
+    "port": 3008
+  }
+}

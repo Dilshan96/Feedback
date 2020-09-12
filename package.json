@@ -1,0 +1,36 @@
+{
+  "name": "laabuy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.14.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.1",
+    "bcrypt": "^3.0.8",
+    "compression": "^1.7.4",
+    "config": "^3.2.5",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "fawn": "^2.1.5",
+    "fcm-node": "^1.5.2",
+    "formidable": "^1.2.1",
+    "helmet": "^3.21.2",
+    "jimp": "^0.9.3",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.1",
+    "morgan": "^1.9.1",
+    "mv": "^2.1.1",
+    "request": "^2.88.2"
+  }
+}
